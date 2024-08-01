@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Giovanna Santana</h1>
+<h1 align="center">Hey 👋, I'm Giovanna Santana</h1>
 <h3 align="center">Brazilian student and future dev/ux designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannasantt" alt="giovannasantt" /></a> </p>
