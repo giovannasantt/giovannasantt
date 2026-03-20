@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Giovanna Santana</h1>
 <h3 align="center">Brazilian student and future dev/ux designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannasantt" alt="giovannasantt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=giovannasantt" alt="giovannasantt"/></a> </p>
 
 - 📫 How to reach me **gihcrissantana@gmail.com**
 
